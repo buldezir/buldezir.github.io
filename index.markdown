@@ -37,7 +37,7 @@ Things I changed from default:
 ### Prepare Usb
 [Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 And follow this guide, but:
-U can get full EFI structure ready for this build from this repository
+[U can get full EFI structure ready for this build from my repository](https://github.com/buldezir/buldezir.github.io/archive/main.zip)
 From "Gathering files" and "config.plist Setup" 
 u will need only GenSMBIOS part to generate your unique id (https://github.com/corpnewt/GenSMBIOS)
 
