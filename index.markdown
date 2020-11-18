@@ -35,7 +35,7 @@ Things I changed from default:
 * Clear the platform key as this disables secure boot.
 
 ### Prepare Usb
-https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+[Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 And follow this guide, but:
 U can get full EFI structure ready for this build from this repository
 From "Gathering files" and "config.plist Setup" 
@@ -45,6 +45,6 @@ u will need only GenSMBIOS part to generate your unique id (https://github.com/c
 Install like normal Mac OS
 
 ### Use
-Use like normal mac :) all features like handoff will work
+Use like normal mac :) all features like handoff will work.
 *The only bad side* with BCM94360NG my wifi work on speeds much lower than intended. basicaly some time after connection it drops to 27mbps.
-After install follow https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb to make system bootable without usb
+After install follow [OpenCore-Post-Install](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb) to make system bootable without usb
