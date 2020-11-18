@@ -35,10 +35,10 @@ Things I changed from default:
 * Clear the platform key as this disables secure boot.
 
 ### Prepare Usb
-[Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-And follow this guide, but:
-[U can get full EFI structure ready for this build from my repository](https://github.com/buldezir/buldezir.github.io/archive/main.zip)
-From "Gathering files" and "config.plist Setup" 
+Follow [Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/),
+and to make it much easier: 
+[U can get full EFI structure ready for this build from my repository](https://github.com/buldezir/buldezir.github.io/archive/main.zip),
+after that from guide sections "Gathering files" and "config.plist Setup" 
 u will need only GenSMBIOS part to generate your unique id (https://github.com/corpnewt/GenSMBIOS)
 
 ### Install
