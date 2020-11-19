@@ -39,7 +39,7 @@ Installation tested with macOS Catalina 10.15.7
 
 Follow [Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/),
 and to make it much easier: 
-[U can get full EFI structure ready for this build from my repository](https://github.com/buldezir/buldezir.github.io/archive/main.zip),
+[U can get full EFI structure ready for this build from my repository***](https://github.com/buldezir/buldezir.github.io/archive/main.zip),
 after that from guide sections "Gathering files" and "config.plist Setup" 
 u will need only GenSMBIOS part to generate your unique id (https://github.com/corpnewt/GenSMBIOS)
 
@@ -50,3 +50,6 @@ Install like normal Mac OS
 Use like normal mac :) all features like handoff will work.
 *The only bad side* with BCM94360NG my wifi work on speeds much lower than intended. basicaly some time after connection it drops to 27mbps.
 After install follow [OpenCore-Post-Install](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb) to make system bootable without usb
+
+*** WARNING
+**provided efi structure is an example compatible and build ONLY for listed hardware. DO NOT use it with different hardware.**
