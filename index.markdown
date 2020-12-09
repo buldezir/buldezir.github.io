@@ -35,7 +35,7 @@ Things I changed from default:
 * Clear the platform key as this disables secure boot.
 
 ### Prepare Usb
-Installation tested with macOS Catalina 10.15.7
+Installation tested with macOS Catalina 10.15.7, and macOS Big Sur 11.0.1 (updated from Catalina without any troubles or changes)
 
 Follow [Dortania OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/),
 and to make it much easier: 
